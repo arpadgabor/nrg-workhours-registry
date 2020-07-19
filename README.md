@@ -1,19 +1,9 @@
-# nrg-workhours-registry
+# NRG Workhours Registry
 
-## Project setup
-```
-npm install
-```
+A simple web app to track work hours of employees from NRG Proiect, a small electrical installations company based in Romania.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Built with
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Vue.js
+* TailwindCSS
+* Google Forms
