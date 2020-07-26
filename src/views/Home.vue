@@ -19,6 +19,12 @@ export default {
   name: 'Home',
   components: {
     TheForm
+  },
+  methods: {
+    deleteLocalData() {
+      window.localStorage.removeItem('start')
+      window.localStorage.removeItem('end')
+    }
   }
 }
 </script>

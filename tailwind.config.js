@@ -9,7 +9,7 @@ module.exports = {
   purge: {
     content: [
       'src/**/*.vue',
-      'src/assets/css/*.css',
+      'src/assets/**/*.css',
     ]
   },
 }
